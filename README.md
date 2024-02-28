@@ -1,5 +1,10 @@
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
+<!-- ABOUT THE PROJECT -->
+## About The project
+
+Following the Scrumdinger tutorial on [**iOS App Dev Tutorials**](https://developer.apple.com/tutorials/app-dev-training/getting-started-with-scrumdinger) to learn React Native.
+
 # Getting Started
 
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
